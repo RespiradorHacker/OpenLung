@@ -12,7 +12,13 @@
 
 - Raspberry pi 0
 - External clock
-- Nokia Display
+- 16x2 character LCD
 - Rep-rap 
 
 ## Sensors
+
+- O2 sensor
+
+- temperature/humidity sensor
+
+- air flow / pressure sensor
