@@ -2,9 +2,10 @@ This project was jumpstarted by the COVID-19 global pandemic as a result of comm
 
 Here are links to information found:
 
-http://news.mit.edu/2010/itw-ventilator-0715
-https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf
-https://news.rice.edu/2019/05/01/student-invention-gives-patients-the-breath-of-life-2/
-http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096
+* http://news.mit.edu/2010/itw-ventilator-0715
+* https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf
+* https://news.rice.edu/2019/05/01/student-invention-gives-patients-the-breath-of-life-2/
+* http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096
+* https://www.instructables.com/id/The-Pandemic-Ventilator/?fbclid=IwAR2E_dr2P2oa6zYFJRhp58rctGrRDLG9AprXnsoJ2JTREiX16TMiPbK_LNs
 
 
