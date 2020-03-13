@@ -10,7 +10,9 @@ Here are links to information found:
 * http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096
 * https://www.instructables.com/id/The-Pandemic-Ventilator/?fbclid=IwAR2E_dr2P2oa6zYFJRhp58rctGrRDLG9AprXnsoJ2JTREiX16TMiPbK_LNs
 
-## Requirements list
+## Requirements list (Mostly approprated from the MIT group whitepaper)
+
+### Features and issues found in previous designs
 
 - Great features found in the Rice Design - Easy to use 3 button adjustment scheme (Tidal volume + -), High low pressure alerting, mostly NC fabrication methods, Compact and light.
 - Issues found with the Rice Design - Multi Material (Complex construction), Seemingly fragile components, Unventilated/cooled electronics, low humidity tolerance, No proper open source files.
