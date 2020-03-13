@@ -1,3 +1,5 @@
+# Low resource Ambu-Bag ventilator
+
 This project was jumpstarted by the COVID-19 global pandemic as a result of community discussion on a facebook group called Open Source COVID19 I created this GitLab project. More specifically in a discussion surrounding low cost AmbuBag based emergency respirators wherein to prior solutions were developed. The first from an MIT research group comprising of the following persons (Abdul Mohsen Al Husseini1, Heon Ju Lee1, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum and Jussi Saukkonen). The second device from a Rice University Mechanical Engineering student group comprising of the following persons (Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet and Karen Vasquez Ruiz. Photo by Jeff Fitlow). This project seeks to combine and improve the efforts of these two projects into a more simple and reliable device that consists mostly of 3D printed parts.
 
 Here are links to information found:
@@ -8,4 +10,49 @@ Here are links to information found:
 * http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096
 * https://www.instructables.com/id/The-Pandemic-Ventilator/?fbclid=IwAR2E_dr2P2oa6zYFJRhp58rctGrRDLG9AprXnsoJ2JTREiX16TMiPbK_LNs
 
+## Requirements list
 
+### Medical
+
+- User-specified breath/min
+insp./exp ratio, tidal volume
+- Assist control
+- Positive end-expiratory
+pressure (PEEP)
+- Maximum pressure limiting
+- Humidity exchange
+- Infection control
+- Limited dead-space 
+
+### Mechanical
+
+- Portable
+- Standalone operation
+- Robust mechanical,
+electrical and software
+systems
+- Readily sourced and
+repairable parts
+- Minimal power req
+
+### Economic
+
+- Low cost 
+
+### User interface
+
+- Alarms for loss of power,
+loss of breathing circuit
+integrity, high airway
+pressure and low battery
+life
+- Display of settings and
+status
+- Standard connection ports
+
+### Repeatability
+
+- Indicators within 10% of
+correct reading
+- Breath frequency accurate
+to one breath per minute 
