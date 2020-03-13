@@ -2,6 +2,22 @@
 
 This project was jumpstarted by the COVID-19 global pandemic as a result of community discussion on a facebook group called Open Source COVID19 I created this GitLab project. More specifically in a discussion surrounding low cost AmbuBag based emergency respirators wherein to prior solutions were developed. The first from an MIT research group comprising of the following persons (Abdul Mohsen Al Husseini1, Heon Ju Lee1, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum and Jussi Saukkonen). The second device from a Rice University Mechanical Engineering student group comprising of the following persons (Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet and Karen Vasquez Ruiz. Photo by Jeff Fitlow). This project seeks to combine and improve the efforts of these two projects into a more simple and reliable device that consists mostly of 3D printed parts.
 
+## Reasons for using an Ambu-Bag
+- Mass Produced
+- Certified components
+- Small and Simple mechanical requirements
+- Previous research and testing in this area
+- Adaptable to both invasive tubing and masks
+
+## Project TO-DO
+
+- Design a more integral 3D printed actuation mechanism
+- Spec a good low amperage, high torque DC motor
+- Design or find and H Bridge rectifier circuit
+- Spec an interface (LCD and Buttons)
+- Spec feedback sensors for PEEP, low voltage, high and low pressure events.
+- Outline interface visually
+
 Here are links to information found:
 
 * http://news.mit.edu/2010/itw-ventilator-0715
