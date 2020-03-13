@@ -12,7 +12,12 @@
 
 - Raspberry pi 0
 - External clock
-- Nokia Display
+- simple dot matirx display, 16 character by 2 line LCD
 - Rep-rap 
 
 ## Sensors
+
+- 02 sensor
+- air flow / pressure sensor
+- humidity & temperature
+
