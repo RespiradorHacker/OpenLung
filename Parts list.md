@@ -13,7 +13,7 @@
 - 1S configuration - avoids implementing charge balancing an additonal BMS complications
 - Charging circuit to charge at rate of at least 0.5C
 - wireless charging module (negates need for power connector and compliance test for said connector)
-  - Example: [https://www.ebay.co.uk/i/264394772583?chn=ps&var=564016992535&norover=1&mkevt=1&mkrid=710-134428-41853-0&mkcid=2&itemid=564016992535_264394772583&targetid=876487124366&device=c&mktype=pla&googleloc=1007266&campaignid=9441121590&mkgroupid=95891581676&rlsatarget=aud-381667280803:pla-876487124366&abcId=1140496&merchantid=138346494&gclid=Cj0KCQjw3qzzBRDnARIsAECmryoS3puu7FpxvoIhPVkTr22Fic_HOrRycNUmyBwnINAsFEHWI-lKEPsaAhnNEALw_wcB](2019 Qi Wireless Charger PCBA Circuit Board With Coil Charging)
+  - 
 
 ## Interface
 
