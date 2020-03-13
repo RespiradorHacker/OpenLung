@@ -14,45 +14,34 @@ Here are links to information found:
 
 ### Medical
 
-- User-specified breath/min
+- User-specified breath/min (Via button interface)
 insp./exp ratio, tidal volume
-- Assist control
-- Positive end-expiratory
-pressure (PEEP)
+- Assist control (Negative pressure detection?)
+- Positive end-expiratory pressure (PEEP)
 - Maximum pressure limiting
-- Humidity exchange
-- Infection control
+- Humidity exchange (built into the mask)
+- Infection control (By way of covering the unit in an easily cleaned enclosure)
 - Limited dead-space 
 
 ### Mechanical
 
-- Portable
-- Standalone operation
-- Robust mechanical,
-electrical and software
-systems
-- Readily sourced and
-repairable parts
-- Minimal power req
+- Portable / Stationary (Perhaps the stationary design will be a seperate branch)
+- Standalone operation (Full autonomy by way of sensor feedback and adjustment loops)
+- Robust mechanical, electrical and software systems (Simple, Corrosion resistant, Vibration resistant, Best crystal oscillator)
+- Readily sourced and repairable parts (3D printing)
+- Minimal power req (Efficient motor controller)
 
 ### Economic
 
-- Low cost 
+- Low cost ($100.00 US build cost)
 
 ### User interface
 
-- Alarms for loss of power,
-loss of breathing circuit
-integrity, high airway
-pressure and low battery
-life
-- Display of settings and
-status
+- Alarms for loss of power, loss of breathing circuitintegrity, high airway pressure and low battery life
+- Display of settings and status
 - Standard connection ports
 
 ### Repeatability
 
-- Indicators within 10% of
-correct reading
-- Breath frequency accurate
-to one breath per minute 
+- Indicators within 10% of correct reading
+- Breath frequency accurate to one breath per minute 
