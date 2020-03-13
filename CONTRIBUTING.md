@@ -1,2 +1,2 @@
-Trevor Smale
-David O'Reilly
+- Trevor Smale
+- David O'Reilly
