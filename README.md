@@ -20,6 +20,7 @@ This project was jumpstarted by the COVID-19 global pandemic as a result of comm
 
 ("I recommend adding a sensor between the bag and the tube leading to the patient that can measure the volume of air passing with each breath and the pressure left inside the bag. That way you can control Tidal volume and PEEP.
 Unlike the Rice teams version it should not have the "adult, child, fast slow, etc" settings. As physicians we need very accurate control of these settings." -Jeff Ebin)
+(Jeff- the Ambu Bags all have a sensor port for monitoring airway pressure. Either an analog gauge can be used or an electronic sensor installed. Does this produce the desired data?)
 
 
 Here are links to information found:
@@ -53,7 +54,9 @@ insp./exp ratio, tidal volume
 ### Mechanical
 
 - Portable / Stationary (Perhaps the stationary design will be a seperate branch)
+(Greg: I would index on stationary. The Rice/MIT designs are for dev world. This project assumes use in a resource limited hospital)
 - Standalone operation (Full autonomy by way of sensor feedback and adjustment loops)
+(I think reaching full autonomy is beyond the scope - the target should be that this is managable with a 1:4 RN:PT ratio)
 - Robust mechanical, electrical and software systems (Simple, Corrosion resistant, Vibration resistant, Best crystal oscillator)
 - Readily sourced and repairable parts (3D printing)
 - Minimal power req (Efficient motor controller)
@@ -62,6 +65,8 @@ insp./exp ratio, tidal volume
 
 - Low cost ($100.00 US build cost)
 - Must fit within standard printer bed
+(I would target stamping. The US/Canada has hundreds of stamping shops that can producer stronger parts in faster volumes than 3D printing)
+(large enough 3D printers for this are limited, and slow in production. A single stamping shop can make 100s of these a day)
 - Must use internationally available 'off the shelf parts'
 
 ### User interface
