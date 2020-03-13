@@ -15,8 +15,12 @@ This project was jumpstarted by the COVID-19 global pandemic as a result of comm
 - Spec a good low amperage, high torque DC motor
 - Design or find and H Bridge rectifier circuit
 - Spec an interface (LCD and Buttons)
-- Spec feedback sensors for PEEP, low voltage, high and low pressure events.
+- Spec feedback sensors for PEEP, low voltage, high and low pressure events. Hi guys. I'm a physician and create new medical devices like robotics/prosthetic limbs. I was asked to share some thoughts on this project. It's great to see such an interest in helping!
 - Outline interface visually
+
+("I recommend adding a sensor between the bag and the tube leading to the patient that can measure the volume of air passing with each breath and the pressure left inside the bag. That way you can control Tidal volume and PEEP.
+Unlike the Rice teams version it should not have the "adult, child, fast slow, etc" settings. As physicians we need very accurate control of these settings." -Jeff Ebin)
+
 
 Here are links to information found:
 
@@ -37,7 +41,7 @@ Here are links to information found:
 
 ### Medical
 
-- User-specified breath/min (Via button interface)
+- User-specified breath/min (Via button or knob interface)
 insp./exp ratio, tidal volume
 - Assist control (Negative pressure detection?)
 - Positive end-expiratory pressure (PEEP)
