@@ -41,6 +41,8 @@ insp./exp ratio, tidal volume
 ### Economic
 
 - Low cost ($100.00 US build cost)
+- Must fit within standard printer bed
+- Must use internationally available 'off the shelf parts'
 
 ### User interface
 
@@ -51,4 +53,4 @@ insp./exp ratio, tidal volume
 ### Repeatability
 
 - Indicators within 10% of correct reading
-- Breath frequency accurate to one breath per minute 
+- Breath frequency accurate to one breath per minute ( 1 out of approx 30 breaths )
