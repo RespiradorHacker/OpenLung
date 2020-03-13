@@ -12,6 +12,11 @@ Here are links to information found:
 
 ## Requirements list
 
+- Great features found in the Rice Design - Easy to use 3 button adjustment scheme (Tidal volume + -), High low pressure alerting, mostly NC fabrication methods, Compact and light.
+- Issues found with the Rice Design - Multi Material (Complex construction), Seemingly fragile components, Unventilated/cooled electronics, low humidity tolerance, No proper open source files.
+- Great features found in the MIT Design - Ultra reliable cam actuation mechanism, simple/repeatable motor diver circuit, Similar Easy to use 3 button schema, Hermetically sealed.
+- Issues found with the MIT Design - Multi Material (Complex construction), Overtly robust/substancial, Some specialty parts.
+
 ### Medical
 
 - User-specified breath/min (Via button interface)
