@@ -10,7 +10,7 @@ Here are links to information found:
 * http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096
 * https://www.instructables.com/id/The-Pandemic-Ventilator/?fbclid=IwAR2E_dr2P2oa6zYFJRhp58rctGrRDLG9AprXnsoJ2JTREiX16TMiPbK_LNs
 
-## Requirements list (Mostly approprated from the MIT group whitepaper)
+## Requirements list (Mostly appropriated from the MIT group whitepaper)
 
 ### Features and issues found in previous designs
 
