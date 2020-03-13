@@ -12,13 +12,12 @@
 
 - Raspberry pi 0
 - External clock
-- 16x2 character LCD
+- simple dot matirx display, 16 character by 2 line LCD
 - Rep-rap 
 
 ## Sensors
 
-- O2 sensor
-
-- temperature/humidity sensor
-
+- 02 sensor
 - air flow / pressure sensor
+- humidity & temperature
+
