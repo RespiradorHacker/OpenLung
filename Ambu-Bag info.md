@@ -2,6 +2,13 @@
 
 ## NOTES
 
+### Caution (Medical Info from frontline specialist discussions)
+
+- Currently the Ambu-Bag and other similar compression ventilators are designed for single digit hours of operation. The parts (Valves) tend to get sticky with condensed liquid. Moreover dnagerous levels of carbon dioxide can and will accumulate. Additionally the reuseable Ambu-Bag sustems are not common, meaning the ones available are less sturdy.
+- When there are a lack of ventilators (in the event of this type of crisis) the built in, tank fed oxygen systems are routed into the bag, it gets very tricky tracking the balance of gasses as time progresses.
+- Professionals are sitting bedside, tending to the manual ventilator setups.
+
+
 PEEP - Positive End Expiratory Pressure
 Fio2 - Fraction of Expired Oxygen - 
 Fso2 - From O2 tank or wall fixture - Supplimental oxygen
