@@ -22,6 +22,7 @@ This project was jumpstarted by the COVID-19 global pandemic as a result of comm
 Unlike the Rice teams version it should not have the "adult, child, fast slow, etc" settings. As physicians we need very accurate control of these settings." -Jeff Ebin)
 (Jeff- the Ambu Bags all have a sensor port for monitoring airway pressure. Either an analog gauge can be used or an electronic sensor installed. Does this produce the desired data?)
 
+Suitable flow sensors: Sensirion SFM3000 200C, or the TSI 840523 - both are digital, and have simply o-ring coupled ports.
 
 Here are links to information found:
 
