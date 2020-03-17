@@ -4,8 +4,11 @@
 
 ### Caution (Medical Info from frontline specialist discussions)
 
-- Currently the Ambu-Bag and other similar compression ventilators are designed for single digit hours of operation. The parts (Valves) tend to get sticky with condensed liquid. Moreover dnagerous levels of carbon dioxide can and will accumulate. Additionally the reuseable Ambu-Bag sustems are not common, meaning the ones available are less sturdy.
-- When there are a lack of ventilators (in the event of this type of crisis) the built in, tank fed oxygen systems are routed into the bag, it gets very tricky tracking the balance of gasses as time progresses.
+- The Ambu-Bag (and similar compression ventilators) are designed for <10 hours of operation and encounter several common issues:
+  - the valves get sticky with condensed liquid
+  - dangerous levels of CO2 accumulate
+  - reuseable Ambu-Bag systems are not common, meaning the ones available are less sturdy.
+- When there are a lack of ventilators (like in the COVID-19 crisis), the built-in, tank-fed oxygen systems are routed into the bag, making it difficult to track the balance of gasses over time.
 - Professionals are sitting bedside, tending to the manual ventilator setups.
 
 
@@ -22,7 +25,9 @@ Fdo2 - Fraction of Delivered oxygen - How much got to the patient
 
 ## Helpfull Videos
 
-PEEP Valves and Diverters- https://www.youtube.com/watch?v=Douv4EPk_jA
-Oxygenation Understanding your BVM Device - https://www.youtube.com/watch?v=-ksxZeKpbjw
-Oxygenation -Understanding your BVM Device 2 https://www.youtube.com/watch?v=PJiRABugTfg
+- [PEEP Valves and Diverters](https://www.youtube.com/watch?v=Douv4EPk_jA)
+
+- [Oxygenation Understanding your BVM Device](https://www.youtube.com/watch?v=-ksxZeKpbjw)
+
+- [Oxygenation -Understanding your BVM Device 2](https://www.youtube.com/watch?v=PJiRABugTfg)
 
