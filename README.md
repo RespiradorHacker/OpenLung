@@ -41,7 +41,7 @@
 
 ## COMPLETED (What has been completed)
 
-- ~Design requirements~
+- ~~Design requirements~~
 
 ## Next iterative improvements
 
