@@ -4,7 +4,7 @@
 
 - Perpendicular Motor/Drive shaft connection due to axial load issues
 - Simplify transmission struction
-- Furth compacting of overal build
+- Further compacting of overall build
 
 ## IN PROGRESS (Today)
 
