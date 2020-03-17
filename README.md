@@ -1,3 +1,5 @@
+![Logo](images/OL_BANNER.png)
+
 # Low resource Ambu-Bag ventilator
 
 - This project was jumpstarted by the COVID-19 global pandemic as a result of community discussion on a facebook group called Open Source COVID19 I created this GitLab project.
