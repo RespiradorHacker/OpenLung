@@ -20,7 +20,7 @@ WARNING/DISCLAIMER: Whenever possible, please seek professional medical care wit
 # Project Progress (SCRUM)
 
 ![Current Mechanical Concept](images/CONCEPT_4_MECH.png)
-### Current Design concept with known issues, Version 5 is currently in the works.
+*Current Design concept with known issues, Version 5 is currently in the works.*
 
 # TO-DO
 
