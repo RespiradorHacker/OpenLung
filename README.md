@@ -17,7 +17,7 @@
 # Project Requirements
 - Project Requirements are listed [here](Requirements.md).
 
-# Project Progress (SCRUM)
+# Project Progress
 
 ![Current Mechanical Concept](images/CONCEPT_4_MECH.png)
 *Current Design concept with known issues, Version 5 is currently in the works.*
@@ -31,7 +31,7 @@
 - Spec feedback sensors for PEEP, low voltage, high and low pressure events. Hi guys. I'm a physician and create new medical devices like robotics/prosthetic limbs. I was asked to share some thoughts on this project. It's great to see such an interest in helping!
 - Outline interface visually
 
-## IN PROGRESS (Today, March 17, 2020)
+## IN PROGRESS (What we are working on today, March 17, 2020)
 
 - Organization of Repository structure
 - Updated Ambu-Bag CAD model
@@ -39,9 +39,9 @@
 - Building communication bridge to the open source ventilator project Ireland
 - Assessing current communication and deligation methods
 
-## COMPLETED
+## COMPLETED (What has been completed)
 
--
+- ~Design requirements~
 
 ## Next iterative improvements
 
