@@ -24,7 +24,7 @@
 
 # TO-DO (Where we need help)
 
-*If you can assist in these areas, please fork and create merge requests with new/modified files.
+*If you can assist in these areas, please clone or fork this repo and create a merge request with your new/modified files.*
 
 - Design a more integral 3D printed actuation mechanism
 - Spec a good low amperage, high torque DC motor
