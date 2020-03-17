@@ -22,7 +22,7 @@
 ![Current Mechanical Concept](images/CONCEPT_4_MECH.png)
 *Current Design concept with known issues, Version 5 is currently in the works.*
 
-# TO-DO
+# TO-DO (Where we need help)
 
 - Design a more integral 3D printed actuation mechanism
 - Spec a good low amperage, high torque DC motor
