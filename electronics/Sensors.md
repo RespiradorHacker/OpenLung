@@ -1,3 +1,15 @@
+# Requirements
+
+## ECU
+
+The Electronic Control Unit shall have a microcontroller to measure and display the following sensors:
+1. Pressure
+2. Flow
+3. End Tidal CO2 
+4. Pulse Oximeter
+
+It shall also provide a user interface via buttons and LEDs. It shall provide Pressure adjust, Volume delivery & Oscilation rate control.
+
 ("I recommend adding a sensor between the bag and the tube leading to the patient that can measure the volume of air passing with each breath and the pressure left inside the bag. That way you can control Tidal volume and PEEP.
 Unlike the Rice teams version it should not have the "adult, child, fast slow, etc" settings. As physicians we need very accurate control of these settings." -Jeff Ebin)
 (Jeff- the Ambu Bags all have a sensor port for monitoring airway pressure. Either an analog gauge can be used or an electronic sensor installed. Does this produce the desired data?)
