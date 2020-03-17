@@ -24,6 +24,8 @@
 
 # TO-DO (Where we need help)
 
+*If you can assist in these areas, please fork and create merge requests with new/modified files.
+
 - Design a more integral 3D printed actuation mechanism
 - Spec a good low amperage, high torque DC motor
 - Design or find and H Bridge rectifier circuit
