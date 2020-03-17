@@ -11,7 +11,7 @@ This project was jumpstarted by the COVID-19 global pandemic as a result of comm
 - Adaptable to both invasive tubing and masks
 
 # Project Requirements
-- Project Requirements are listed [here](requirements.md)
+- Project Requirements are listed [here](Requirements.md).
 
 # Project Progress (SCRUM)
 
