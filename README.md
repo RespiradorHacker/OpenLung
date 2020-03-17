@@ -1,31 +1,20 @@
-![Current Mechanical Concept](images/CONCEPT_4_MECH.png)
-# Current Design concept with known issues, Version 5 is currently in the works.
-## Next iterative improvements
-
-- Perpendicular Motor/Drive shaft connection due to axial load issues
-- Simplify transmission struction
-- Further compacting of overall build
-
-## IN PROGRESS (Today)
-
-- Organization of Repository structure
-- Updated Ambu-Bag CAD model
-- Interactivity outline
-- Building communication bridge to the open source ventilator project Ireland
-- Assessing current communication and deligation methods
-
 # Low resource Ambu-Bag ventilator
 
 This project was jumpstarted by the COVID-19 global pandemic as a result of community discussion on a facebook group called Open Source COVID19 I created this GitLab project. More specifically in a discussion surrounding low cost AmbuBag based emergency respirators wherein prior solutions had been developed. The first from an MIT research group comprising of the following persons (Abdul Mohsen Al Husseini1, Heon Ju Lee1, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum and Jussi Saukkonen). The second device from a Rice University Mechanical Engineering student group comprising of the following persons (Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet and Karen Vasquez Ruiz. Photo by Jeff Fitlow). This project seeks to combine and improve the efforts of these two projects into a more simple and reliable device that consists mostly of 3D printed parts.
 
-## Reasons for using an Ambu-Bag
+# Reasons for using an Ambu-Bag
 - Mass Produced
 - Certified components
 - Small and Simple mechanical requirements
 - Previous research and testing in this area
 - Adaptable to both invasive tubing and masks
 
-## Project TO-DO
+# Project Progress (SCRUM)
+
+![Current Mechanical Concept](images/CONCEPT_4_MECH.png)
+### Current Design concept with known issues, Version 5 is currently in the works.
+
+# TO-DO
 
 - Design a more integral 3D printed actuation mechanism
 - Spec a good low amperage, high torque DC motor
@@ -33,6 +22,24 @@ This project was jumpstarted by the COVID-19 global pandemic as a result of comm
 - Spec an interface (LCD and Buttons)
 - Spec feedback sensors for PEEP, low voltage, high and low pressure events. Hi guys. I'm a physician and create new medical devices like robotics/prosthetic limbs. I was asked to share some thoughts on this project. It's great to see such an interest in helping!
 - Outline interface visually
+
+## IN PROGRESS (Today, March 17, 2020)
+
+- Organization of Repository structure
+- Updated Ambu-Bag CAD model
+- Interactivity outline
+- Building communication bridge to the open source ventilator project Ireland
+- Assessing current communication and deligation methods
+
+## COMPLETED
+
+-
+
+## Next iterative improvements
+
+- Perpendicular Motor/Drive shaft connection due to axial load issues
+- Simplify transmission struction
+- Further compacting of overall build
 
 ("I recommend adding a sensor between the bag and the tube leading to the patient that can measure the volume of air passing with each breath and the pressure left inside the bag. That way you can control Tidal volume and PEEP.
 Unlike the Rice teams version it should not have the "adult, child, fast slow, etc" settings. As physicians we need very accurate control of these settings." -Jeff Ebin)
