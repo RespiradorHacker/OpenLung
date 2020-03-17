@@ -1,17 +1,17 @@
 ![Current Mechanical Concept](images/CONCEPT_4_MECH.png)
 # Current Design concept with known issues, Version 5 is currently in the works.
-## Next iterative improvements\
+## Next iterative improvements
 
 - Perpendicular Motor/Drive shaft connection due to axial load issues
 - Simplify transmission struction
 - Furth compacting of overal build
 
-# IN PROGRESS (Today)
+## IN PROGRESS (Today)
 
 - Organization of Repository structure
 - Updated Ambu-Bag CAD model
 - Interactivity outline
-- Building communication bridge to the open source ventilator project Ireland.
+- Building communication bridge to the open source ventilator project Ireland
 - Assessing current communication and deligation methods
 
 # Low resource Ambu-Bag ventilator
