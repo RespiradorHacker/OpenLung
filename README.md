@@ -1,4 +1,4 @@
-![](CONCEPT_4_MECH.png)
+![Current Mechanical Concept](images/CONCEPT_4_MECH.png)
 
 # Low resource Ambu-Bag ventilator
 
