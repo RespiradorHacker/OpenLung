@@ -38,7 +38,7 @@
 ## IN PROGRESS (What we are working on today, March 17, 2020)
 
 - Organization of Repository structure
-- Updated Ambu-Bag CAD model
+- ~~Updated Ambu-Bag CAD model~~
 - Interactivity outline
 - Building communication bridge to the open source ventilator project Ireland
 - Assessing current communication and deligation methods
