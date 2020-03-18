@@ -21,16 +21,15 @@
 
 # Project Progress
 
-![Current Mechanical Concept](images/CONCEPT_4_MECH.png)
+![Current Mechanical Concept](CONCEPT_6_MECH.png)
 *Current Design concept with known issues, Version 5 is currently in the works.*
 
 # TO-DO (Where we need help)
 
 *If you can assist in these areas, please clone or fork this repo and create a merge request with your new/modified files.*
 
-- Design a more integral 3D printed actuation mechanism
-- Spec a good low amperage, high torque DC motor
-- Design or find and H Bridge rectifier circuit
+- ~~Design a more integral 3D printed actuation mechanism~~
+- ~~Spec a good motor~~
 - Spec an interface (LCD and Buttons)
 - Spec feedback sensors for PEEP, low voltage, high and low pressure events. Hi guys. I'm a physician and create new medical devices like robotics/prosthetic limbs. I was asked to share some thoughts on this project. It's great to see such an interest in helping!
 - Outline interface visually
@@ -49,7 +48,7 @@
 
 ## Next iterative improvements
 
-- Perpendicular Motor/Drive shaft connection due to axial load issues
-- Simplify transmission struction
-- Further compacting of overall build
+- ~~Perpendicular Motor/Drive shaft connection due to axial load issues~~
+- ~~Simplify transmission struction~~
+- ~~Further compacting of overall build~~
 
