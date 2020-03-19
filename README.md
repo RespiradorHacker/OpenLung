@@ -20,7 +20,7 @@ This document in other languages:
 2. We will reach out when your noted skills are needed, until then please check out the following:
 -- Stay up to date with the project on our website [Open Source Ventilators Ireland](https://opensourceventilator.ie/) and our social channels.
 -- Join our [Slack Channel](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA) to join the conversation. Many other side projects are happening there.
-3. Get familiar with git by learning how to best contribute to this repository. There are many resources available online, you can start [here](https://www.youtube.com/watch?v=enMumwvLAug).
+3. Get familiar with git by learning how to best contribute to this repository. There are many resources available online, you can start [here](https://www.youtube.com/watch?v=enMumwvLAug) or learn how to submit a merge request [here](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
 4. If you are anxious and would like to get developing, this is open source, please fork this repo and go for it!
 
 # Project Requirements
