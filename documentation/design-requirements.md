@@ -18,6 +18,11 @@ insp./exp ratio, tidal volume
 - Infection control (By way of covering the unit in an easily cleaned enclosure)
 - Limited dead-space 
 
+## Electronics and UI/UX
+- Spec an interface (LCD and Buttons)
+- Spec feedback sensors for PEEP, low voltage, high and low pressure events.
+- Outline interface visually
+
 ### Mechanical
 
 - Portable / Stationary (Perhaps the stationary design will be a seperate branch)

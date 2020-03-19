@@ -29,10 +29,3 @@ This document in other languages:
 # Project Progress
 ![Current Mechanical Concept](images/CONCEPT_6_MECH.png)
 *Current Design Concept 6 with known issues*
-
-# Known Issues to Solve
-
-## Electronics and UI/UX
-- Spec an interface (LCD and Buttons)
-- Spec feedback sensors for PEEP, low voltage, high and low pressure events.
-- Outline interface visually
