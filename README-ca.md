@@ -1,9 +1,9 @@
 ![Logo](images/OL_BANNER.png)
 
-# Ventilador Ambu-Bag de baix cost
+# Baló de ventilació de baix cost
 
 - Aquest projecte fou impulsat per la pandèmia global COVID-19 a partir de les conversacions entre la comunitat d'usuaris del grup de Facebook `Open Source COVID19 and OpenSourceVentilator`. És per això que vaig crear un projecte GitLab per a un producte nou basat en programari lliure: l'OpenLung.
-- Més concretament, en una conversa sobre respiradors d'emergència basats en màscara de vàlvula de bossa de baix cost (BVM o AmbuBag), per als quals s'havien desenvolupat solucions prèvies. [La primera d'un grup de recerca del MIT](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf) integrat per Abdul Mohsen Al Husseini, Heon Ju Lee, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum i Jussi Saukkonen. [El segon dispositiu d'un grup d'estudiants d'Enginyeria Mecànica de la Universitat de Rice](http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096), format per Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet i Karen Vasquez Ruiz.
+- Més concretament, en una conversa sobre respiradors d'emergència basats en balons de ventilació de baix cost (`BVM` o `Ambu bag`), per als quals s'havien desenvolupat solucions prèvies. [La primera d'un grup de recerca del MIT](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf) integrat per Abdul Mohsen Al Husseini, Heon Ju Lee, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum i Jussi Saukkonen. [El segon dispositiu d'un grup d'estudiants d'Enginyeria Mecànica de la Universitat de Rice](http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096), format per Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet i Karen Vasquez Ruiz.
 - Aquest projecte pretén combinar i millorar els esforços d'aquests dos projectes en un dispositiu més simple i fiable que consta majoritàriament de peces impreses en 3D.
 
 *AVÍS D'EXEMPCIÓ DE RESPONSABILITAT: Sempre que sigui possible, sol·liciteu assistència mèdica professional amb equipament operat per operadors amb la formació mèdica i tècnica adequades. No és recomanable utilitzar informació aleatòria d'Internet. Els membres d'aquest projecte no som professionals mèdics, sinó voluntaris que col·laboren a Internet.*
