@@ -8,7 +8,7 @@
 
 *AVÍS D'EXEMPCIÓ DE RESPONSABILITAT: Sempre que sigui possible, sol·liciteu assistència mèdica professional amb equipament operat per operadors amb la formació mèdica i tècnica adequades. No és recomanable utilitzar informació aleatòria d'Internet. Els membres d'aquest projecte no som professionals mèdics, sinó voluntaris que col·laboren a Internet.*
 
-## Motius per utilitzar un Ambu-Bag
+## Motius per utilitzar un baló de ventilació
 
 - Producció en massa
 - Components certificats
