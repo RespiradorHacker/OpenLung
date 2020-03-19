@@ -17,9 +17,9 @@ This document in other languages:
 # How To Join the Development
 1. Fill out our Expression of Interest Form [here](https://opensourceventilator.ie/register) if you haven't already.
 *This step is mandatory and it’s how we will find you to match your skills to areas you can help. If you have fabrication equipment, also fill out this form.*
-2. Hold On! We will reach out when your skills are needed, until then check out the following:
-- Stay up to date with the project on our website [Open Source Ventilators Ireland](https://opensourceventilator.ie/)
-- Join our [Slack Channel](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA) to join the conversation. Many other side projects are happening there.
+2. We will reach out when your skills are needed, until then check out the following:
+-- Stay up to date with the project on our website [Open Source Ventilators Ireland](https://opensourceventilator.ie/) and our social channels.
+-- Join our [Slack Channel](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA) to join the conversation. Many other side projects are happening there.
 3. Get familiar with git by learning how to best contribute to this repository. There are many resources available online, you can start [here](https://www.youtube.com/watch?v=enMumwvLAug).
 
 
