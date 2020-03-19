@@ -22,12 +22,12 @@ Els requeriments del projecte es mostren [aquí](Requirements.md).
 
 ## Estat del projecte
 
-- ![Concepte mecànic](CONCEPT_6_MECH.png)
+![Concepte mecànic](CONCEPT_6_MECH.png)
 *Actualment s'està desenvolupant la versió 5 del concepte de disseny, la qual té encara problemes coneguts per resoldre.*
 
 ## PER FER (on ens cal ajuda)
 
-*Si podeu ajudar en qualsevol d'aquestes taskes, cloneu o bifurqueu aquest projecte i creeu una sol·licitud de combinació amb els fitxers nous o modificats.*
+*Si podeu ajudar en qualsevol d'aquestes tasques, cloneu o bifurqueu aquest projecte i creeu una sol·licitud de combinació amb els fitxers nous o modificats.*
 
 - Organització de l'estructura del repository del projecte
 - ~~Dissenyar un mecanisme d'actuació imprès en 3D més integral~~
