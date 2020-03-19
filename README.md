@@ -1,5 +1,10 @@
 ![Logo](images/OL_BANNER.png)
 
+This document in other languages:
+
+|[català](README-ca.md)|[español](README-es.md)|[日本語](README-ja.md)|[汉语](README-yh-Hant.md)|
+|---|---|---|---|
+
 # Low resource Ambu-Bag ventilator
 
 - This project was jumpstarted by the COVID-19 global pandemic as a result of community discussion on a facebook group called Open Source COVID19 and OpenSourceVentilator, this is why I created a GitLab project for a new open source product called **OpenLung**.
