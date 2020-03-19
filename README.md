@@ -17,45 +17,22 @@ This document in other languages:
 # How To Join the Development
 1. Fill out our Expression of Interest Form [here](https://opensourceventilator.ie/register) if you haven't already.
 *This step is mandatory and it’s how we will find you to match your skills to areas you can help. If you have fabrication equipment, also fill out this form.*
-2. We will reach out when your skills are needed, until then check out the following:
+2. We will reach out when your noted skills are needed, until then please check out the following:
 -- Stay up to date with the project on our website [Open Source Ventilators Ireland](https://opensourceventilator.ie/) and our social channels.
 -- Join our [Slack Channel](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA) to join the conversation. Many other side projects are happening there.
 3. Get familiar with git by learning how to best contribute to this repository. There are many resources available online, you can start [here](https://www.youtube.com/watch?v=enMumwvLAug).
-
+4. If you are anxious and would like to get developing, this is open source, please fork this repo and go for it!
 
 # Project Requirements
 - Project Requirements are listed [here](documentation/design-requirements.md).
 
 # Project Progress
-
 ![Current Mechanical Concept](images/CONCEPT_6_MECH.png)
 *Current Design Concept 6 with known issues*
 
-# TO-DO (Where we need help)
+# Known Issues to Solve
 
-*If you can assist in these areas, please clone or fork this repo and create a merge request with your new/modified files.*
-
-- ~~Design a more integral 3D printed actuation mechanism~~
-- ~~Spec a good motor~~
+## Electronics and UI/UX
 - Spec an interface (LCD and Buttons)
 - Spec feedback sensors for PEEP, low voltage, high and low pressure events.
 - Outline interface visually
-
-## IN PROGRESS (What we are working on today, March 17, 2020)
-
-- Organization of Repository structure
-- ~~Updated Ambu-Bag CAD model~~
-- Interactivity outline
-- Building communication bridge to the [open source ventilator project Ireland](https://opensourceventilator.ie/)
-- Assessing current communication and deligation methods
-
-## COMPLETED (What has been completed)
-
-- ~~Design requirements~~
-
-## Next iterative improvements
-
-- ~~Perpendicular Motor/Drive shaft connection due to axial load issues~~
-- ~~Simplify transmission struction~~
-- ~~Further compacting of overall build~~
-
