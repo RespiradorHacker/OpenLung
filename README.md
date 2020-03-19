@@ -27,7 +27,7 @@ This document in other languages:
 # Project Progress
 
 ![Current Mechanical Concept](images/CONCEPT_6_MECH.png)
-*Current Design concept with known issues, Version 5 is currently in the works.*
+*Current Design Concept 6 with known issues*
 
 # TO-DO (Where we need help)
 
