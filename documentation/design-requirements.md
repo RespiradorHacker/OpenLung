@@ -1,4 +1,6 @@
-## Requirements list (Mostly appropriated from the MIT group whitepaper)
+# Design Requirements
+
+## Drafted by Trevor Smale
 
 ### Features and issues found in previous designs
 
@@ -18,7 +20,7 @@ insp./exp ratio, tidal volume
 - Infection control (By way of covering the unit in an easily cleaned enclosure)
 - Limited dead-space 
 
-## Electronics and UI/UX
+### Electronics and UI/UX
 - Spec an interface (LCD and Buttons)
 - Spec feedback sensors for PEEP, low voltage, high and low pressure events.
 - Outline interface visually
