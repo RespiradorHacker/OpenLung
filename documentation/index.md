@@ -10,7 +10,7 @@ A work in progress...
 ## Requirements
 
 The following were taken from a medium article:
-* Be reliable. It must work continuously without failure (100% duty cycle) for blocks of 14days — 24 hours a day. If necessary, the machine may be replaced after each block of 14 days x 24 hours a day use.
+* Be reliable. It must work continuously without failure (100% duty cycle) for blocks of 14 days — 24 hours a day. If necessary, the machine may be replaced after each block of 14 days x 24 hours a day use.
 * Provide at least two settings for volume of air/air O2 mix delivered per cycle/breath. These settings to be 450ml +/- 10ml per breath and 350ml +/- 10ml per breath.
 * Provide this air/air O2 mix at a peak pressure of 350 mm H2O.
 * Have the capability for patient supply pipework to remain pressurised at all times to 150mm H20.
