@@ -23,3 +23,12 @@ The addition of the elastic strap to the facemask allows the device to operate h
 
 
 ---------------------
+
+URL: http://www.freepatentsonline.com/y2019/0336713.html
+
+Umbulizer patent
+I don't want to hold this wonderful project up whatsoever and I would like to contribute on the electronics side if I can. However, I want to ask if anyone has looked at the Umbulizer patent, whether there's any overlap that could be easily avoided without detriment to the final function of openlung and would make sure that the success of openlung isn't reduced by adverse legal issues or sentiment. 
+
+Abstract A method of ventilating a patient controls an actuator, in accordance with a prescribed value for a respiratory parameter, to compress an inflatable bag to cause air to flow out of an output valve of the bag. The respiratory parameter s may include tidal volume, pressure, volume limit, peak pressure, I:E ratio, inspiratory time, and/or breathing rate of the air flowing through the output valve. The method also senses the pressure flowing through the output valve, and sends a pressure signal to the controller. Additionally, the method senses the flow rate through the output valve, and sends a flow rate signal to the controller. The method also adjusts the compression of the actuator as a function of the flow rate signal and/or the pressure signal to adjust the output tidal volume, pressure, volume limit, peak pressure, I:E ratio, inspiratory time, and/or breathing rate to be in accordance with the prescribed value.
+
+---------------------
