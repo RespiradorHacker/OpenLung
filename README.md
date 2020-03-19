@@ -24,7 +24,7 @@ This document in other languages:
 4. If you are anxious and would like to get developing, this is open source, please fork this repo and go for it!
 
 # Project Requirements
-- Project Requirements are listed [here](documentation/design-requirements.md).
+- Project Requirements are listed [here](requirements/design-requirements.md).
 
 # Project Progress
 ![Current Mechanical Concept](images/CONCEPT_6_MECH.png)
