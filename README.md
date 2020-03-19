@@ -5,7 +5,7 @@ This document in other languages:
 |[català](README-ca.md)|[español](README-es.md)|[日本語](README-ja.md)|[汉语](README-yh-Hant.md)|
 |---|---|---|---|
 
-# Low resource Ambu-Bag ventilator
+# Low Resource Bag Valve Mask (BVM) Ventilator
 
 - This project was jumpstarted by the COVID-19 global pandemic as a result of community discussion on a facebook group called Open Source COVID19 and OpenSourceVentilator, this is why I created a GitLab project for a new open source product called **OpenLung**.
 - More specifically in a discussion surrounding low cost **Bag Valve Mask** (**BVM** or **AmbuBag**) based emergency respirators wherein prior solutions had been developed. [The first from an MIT research group](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf) comprising of the following persons (Abdul Mohsen Al Husseini, Heon Ju Lee, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum and Jussi Saukkonen). [The second device from a Rice University Mechanical Engineering student group](http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096) comprising of the following persons (Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet and Karen Vasquez Ruiz. Photo by Jeff Fitlow).
@@ -22,7 +22,7 @@ This document in other languages:
 - Adaptable to both invasive tubing and masks
 
 # Project Requirements
-- Project Requirements are listed [here](Requirements.md).
+- Project Requirements are listed [here](documentation/design-requirements.md).
 
 # Project Progress
 
