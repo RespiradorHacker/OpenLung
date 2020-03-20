@@ -45,7 +45,7 @@ insp./exp ratio, tidal volume
 
 ### User interface
 
-- Alarms for loss of power, loss of breathing circuitintegrity, high airway pressure and low battery life
+- Alarms for loss of power, loss of breathing circuit integrity, high airway pressure and low battery life
 - Display of settings and status
 - Standard connection ports
 
