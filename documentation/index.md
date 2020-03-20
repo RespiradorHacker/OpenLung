@@ -24,5 +24,5 @@ The following were taken from a medium article:
 * Fail SAFE, ideally generating a clear alarm on failure. Failure modes to be alarmed include (but are not limited to) pressure loss and O2 loss
 
 ### References
-* [Design Requirements](/documents/design-requirements.md)
+* [Design Requirements](/requirements/design-requirements.md)
 * [CSSALTlab Open Source Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
