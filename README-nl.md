@@ -2,8 +2,8 @@
 
 Dit document in andere talen:
 
-|[català](README-ca.md)|[español](README-es.md)|[日本語](README-ja.md)|[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)|[português](README-pt_BR.md)|
-|---|---|---|---|---|---|
+|[english](README.md)|[català](README-ca.md)|[español](README-es.md)|[日本語](README-ja.md)|[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)|[português](README-pt_BR.md)|[nederlands](README-nl.md)|[Русский](README-ru.md)
+|---|---|---|---|---|---|---|---|---|
 
 # Maskerballon (BVM) beademingsapparaat met weinig middelen
 

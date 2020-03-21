@@ -1,9 +1,12 @@
 ![Logo](images/OL_BANNER.png)
 
-This document in other languages:
+Ten dokument w innych językach:
 
 |[english](README.md)|[català](README-ca.md)|[español](README-es.md)|[日本語](README-ja.md)|[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)|[português](README-pt_BR.md)|[nederlands](README-nl.md)|[Русский](README-ru.md)
 |---|---|---|---|---|---|---|---|---|
+
+
+jeśli chcesz pomóc w tłumaczeniu tej dokumentacji, kliknij [tutaj](https://gitlab.com/TrevorSmale/OSV-OpenLung/-/issues/23).
 
 # Low Resource Bag Valve Mask (BVM) Ventilator
 
