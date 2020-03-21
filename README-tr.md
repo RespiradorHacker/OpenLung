@@ -2,15 +2,15 @@
 
 Diğer diller için:
 
-|[català](README-ca.md)|[español](README-es.md)|[日本語](README-ja.md)|[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)|[português](README-pt_BR.md)|[nederlands](README-nl.md)|[Русский](README-ru.md)
-|---|---|---|---|---|---|---|
+|[english](README.md)|[català](README-ca.md)|[español](README-es.md)|[日本語](README-ja.md)|[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)|[português](README-pt_BR.md)|[nederlands](README-nl.md)|[Русский](README-ru.md)
+|---|---|---|---|---|---|---|---|---|
 
 # Düşük  Gereksinimli  Torba/Bag Valf Maskesi (BVM) Solunum Destek Cihazı
 
 - Bu proje Facebook'daki Open Source COVID19 ve OpenSourceVentilator gruplarındaki tartışmalardan sonra,  COVID-19 küresel salgınına karşı  başlatıldı. Bu tartışmaların sonunda  **OpenLung**  (AçıkAkciğer) isimli açık kaynak cihaz/ürün için bu GitLab projesini oluşturdum.
 - Düşük maliyetli **Torba/Bag Valf Maskesi** (**BVM** veya  **AmbuBag** ) temelli acil durum solunum çihazlarının  (respiratörler) tartışıldıği   bir başlıkta, daha önceki çözümlerden bahsedildi. [Bunlardan ilki](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf) MIT'deki bir araştırma grubu tarafından geliştirimiş.  Geliştiren kişiler: Abdul Mohsen Al Husseini, Heon Ju Lee, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum and Jussi Saukkonen). [İkinci cihaz ](http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096)   ise Rice Üniversitesi Makina Mühendisliği ögrenci grubu tarafından geliştirilmiş. Geliştiren kişiler: Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet and Karen Vasquez Ruiz.
 - Bu proje, diğer iki projenin çabalarını birleştirip daha da geliştirerek, daha basit, daha güvenli, ve parçaları daha kolay bulunabilen veya 3D basılabilen bir cihaz ortaya çıkarmayı amaçlamaktadır.
-- Getirileri: Seri üretilebilirlik, temaslı noktalarda sertifikalı parça kullanımı, basit ve küçük mekanik gereksinimler, bu alandaki önceki araştırma ve testlerden yararlanma, hem tüp boru hem maske desteği olması. 
+- Getirileri: Seri üretilebilirlik, temaslı noktalarda sertifikalı parça kullanımı, basit ve küçük mekanik gereksinimler, bu alandaki önceki araştırma ve testlerden yararlanma, hem tüp boru hem maske desteği olması.
 
 *UYARI/YASAL UYARI:   Lütfen mümkün olduğunca eğitimli ve uzman  kişiler tarafında kurulmuş, gerçek tıbbi aletleri kullanarak profesyonel tıbbi yardım alın. İnternette bulduğunuz rastgele bilgilere güvenmeyin ve o bilgileri  kullanmayın. Biz tıp uzmanı değiliz, sadece internetteki her hangi bir kişiyiz. *
 
