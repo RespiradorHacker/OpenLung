@@ -9,7 +9,7 @@ Om du vill hjälpa till med översättning av denna dokumentation, klicka [här]
 
 # Billig Påse-Ventil-Mask-ventilator (BVM)
 
-- This project was jumpstarted by the COVID-19 global pandemic as a result of community discussion on a facebook group called Open Source COVID19 and OpenSourceVentilator, this is why I created a GitLab project for a new open source product called **OpenLung**.
+- Det här projektet startades på grund av den globala pandemin, och som ett resultat av den diskussion som uppstod på en Facebook-grupp "Open Source COVID-19" samt "OpenSourceVentilator". Det är därför jag skapade ett GitLab-projekt för en ny open-source-produkt som kallas **OpenLung**.
 - More specifically in a discussion surrounding low cost **Bag Valve Mask** (**BVM** or **AmbuBag**) based emergency respirators wherein prior solutions had been developed. [The first from an MIT research group](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf) comprising of the following persons (Abdul Mohsen Al Husseini, Heon Ju Lee, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum and Jussi Saukkonen). [The second device from a Rice University Mechanical Engineering student group](http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096) comprising of the following persons (Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet and Karen Vasquez Ruiz.
 - This project seeks to combine and improve the efforts of these two projects into a more simple and reliable device that consists mostly of easy to source or 3D printed parts.
 - Benefits: Can be mass produced, touch points use certified components, small and simple mechanical requirements, previous research and testing in this area, adaptable to both invasive tubing and masks.
