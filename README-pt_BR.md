@@ -2,8 +2,10 @@
 
 Este documento em outros idiomas:
 
-|[english](README.md)|[català](README-ca.md)|[español](README-es.md)|[日本語](README-ja.md)|[汉语](README-yh-Hant.md)|
-|---|---|---|---|---|
+|[english](README.md)|[català](README-ca.md)|[español](README-es.md)|[日本語](README-ja.md)|[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)|[português](README-pt_BR.md)|[nederlands](README-nl.md)|[Русский](README-ru.md)
+|---|---|---|---|---|---|---|---|---|
+
+Se você gostaria de ajudar com a tradução desta documentação, clique aqui.
 
 # AMBU (respirador) emergencial de baixo custo
 
@@ -12,7 +14,7 @@ Este documento em outros idiomas:
 - Esse projeto almeja combinar e melhorar os esforços dos dois projetos acima em um dispositivo mais simples e confiável, que consiste (em sua maioria) por peças impressas em 3D ou obtidas facilmente.
 - Benefícios: Pode ser produzido em massa, pontos de contato usam componentes certificados, mecânica simples, pesquisa e teste anterior na área, adaptável tanto para máscaras de entubação quanto invasivas.
 
-*AVISO: Assim que possível, busque ajuda profissional com equipamento e pessoas treinadas. Não utilize informação difusa encontrada na internet. Nós não somos médicos, somos apenas pessoas normais querendo fazer algo para ajudar.* 
+*AVISO: Assim que possível, busque ajuda profissional com equipamento e pessoas treinadas. Não utilize informação difusa encontrada na internet. Nós não somos médicos, somos apenas pessoas normais querendo fazer algo para ajudar.*
 
 # Como Ajudar no Desenvolvimento
 1. Preencha esse [formulário de interesse](https://opensourceventilator.ie/register) se você ainda não o fez.
