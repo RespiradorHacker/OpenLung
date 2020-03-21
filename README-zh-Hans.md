@@ -2,8 +2,13 @@
 
 此文档的其他语言版本：
 
+<<<<<<< HEAD
 |[english](README.md)|[català](README-ca.md)|[español](README-es.md)|[日本語](README-ja.md)|[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)|[português](README-pt_BR.md)|[nederlands](README-nl.md)|[Русский](README-ru.md)
 |---|---|---|---|---|---|---|---|---|
+=======
+|[english](README.md)|[català](README-ca.md)|[français](README-fr.md)|[español](README-es.md)|[日本語](README-ja.md)|[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)|[português](README-pt_BR.md)|[nederlands](README-nl.md)|[Русский](README-ru.md)
+|---|---|---|---|---|---|---|---|---|---|
+>>>>>>> rmv-spec-add
 
 # 低成本袋阀面罩（BVM）呼吸机
 

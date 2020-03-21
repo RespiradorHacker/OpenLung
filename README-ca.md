@@ -2,8 +2,13 @@
 
 Aquest document en altres idiomes:
 
+<<<<<<< HEAD
 |[english](README.md)|[català](README-ca.md)|[español](README-es.md)|[日本語](README-ja.md)|[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)|[português](README-pt_BR.md)|[nederlands](README-nl.md)|[Русский](README-ru.md)
 |---|---|---|---|---|---|---|---|---|
+=======
+|[english](README.md)|[català](README-ca.md)|[français](README-fr.md)|[español](README-es.md)|[日本語](README-ja.md)|[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)|[português](README-pt_BR.md)|[nederlands](README-nl.md)|[Русский](README-ru.md)
+|---|---|---|---|---|---|---|---|---|---|
+>>>>>>> rmv-spec-add
 
 # Baló de ventilació de baix cost
 
