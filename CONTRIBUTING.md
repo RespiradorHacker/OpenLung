@@ -17,6 +17,9 @@ We use the fork/merge process, rather than maintaining multiple protected branch
    - Push any changes you make to your forked repo on GitLab.
    - Request a merge with the main repo and it will be reviewed by a member of the team.
 
+### Resources for GitLab:
+    - [GitLab Training Path](https://about.gitlab.com/training/#gitlab)
+    - [How to Submit a Merge Request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
 
 
 ## Short Links to Important Resources:
