@@ -13,7 +13,7 @@
 
 - User-specified breath/min (Via button or knob interface)
 insp./exp ratio, tidal volume
-- Assist control (Negative pressure detection?)
+- Support modes PCV   (Presure Controled Ventilator) and VCV  (Volume Control Ventilator ) with assist control. (assist control is the action of detect pacient effort to breath. and it is works in diferent ways acording to ventilator mode)
 - Positive end-expiratory pressure (PEEP)
 - Maximum pressure limiting
 - Humidity exchange (built into the mask)
