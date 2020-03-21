@@ -6,7 +6,13 @@ This project can use your help! We need help designing mechanical parts, electro
 
 We also strongly value documentation and gladly accept improvements to the documentation.
 
-## How To Submit Changes:
+## How to Contribute:
+
+Check out the [README](README.md) for details on how to get involved. Take a look around and see what you think we're missing. Look in the issues and comment or do what you can  to help. This is a global effort and we'll take all of the help that we can get. That said, we do have some guidelines.
+
+If you're a native speaker or translator of a language that you see listed on our ReadMe or you think needs to have a translation, please feel free to submit an issue request and let us know you can do that.
+
+## How To Submit Changes to the Repo:
 
 We use the fork/merge process, rather than maintaining multiple protected branches. If you're not sure what that means, it's okay, feel free to reach out to us via [slack](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA).
 
