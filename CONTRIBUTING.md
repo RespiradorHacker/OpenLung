@@ -1,9 +1,7 @@
 # Contributing
 ## Welcome!
 Welcome to the Open Source Ventilator Project.  We are always very happy to have contributions, whether for trivial cleanups or big new features.
-
 This project can use your help! We need help designing mechanical parts, electronics, firmware and user experience.
-
 We also strongly value documentation and gladly accept improvements to the documentation.
 
 # How To Join in Development:
