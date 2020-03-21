@@ -6,6 +6,15 @@ This project can use your help! We need help designing mechanical parts, electro
 
 We also strongly value documentation and gladly accept improvements to the documentation.
 
+# How To Join in Development:
+1. Fill out our Expression of Interest Form [here](https://opensourceventilator.ie/register) if you haven't already.
+*This step is mandatory and it’s how we will find you to match your skills to areas you can help. If you have fabrication equipment, also fill out this form.*
+2. We will reach out when your noted skills are needed, until then please check out the following:
+-- Stay up to date with the project on our website [Open Source Ventilators Ireland](https://opensourceventilator.ie/) and our social channels.
+-- Join our [Slack Channel](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA) to join the conversation. Many other side projects are happening there.
+3. Get familiar with git by learning how to best contribute to this repository. There are many resources available online, you can start [here](https://www.youtube.com/watch?v=enMumwvLAug) or learn how to submit a merge request [here](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
+4. If you are anxious and would like to get developing, this is open source, please fork this repo and go for it!
+
 ## How to Contribute:
 
 Check out the [README](README.md) for details on how to get involved. Take a look around and see what you think we're missing. Look in the issues and comment or do what you can  to help. This is a global effort and we'll take all of the help that we can get. That said, we do have some guidelines.
