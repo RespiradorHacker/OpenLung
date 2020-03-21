@@ -1,5 +1,10 @@
 ![Logo](images/OL_BANNER.png)
 
+Aquest document en altres idiomes:
+
+|[english](README.md)|[català](README-ca.md)|[español](README-es.md)|[日本語](README-ja.md)|[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)|[português](README-pt_BR.md)|[nederlands](README-nl.md)|[Русский](README-ru.md)
+|---|---|---|---|---|---|---|---|---|
+
 # Baló de ventilació de baix cost
 
 - Aquest projecte fou impulsat per la pandèmia global COVID-19 a partir de les conversacions entre la comunitat d'usuaris del grup de Facebook `Open Source COVID19 and OpenSourceVentilator`. És per això que vaig crear un projecte GitLab per a un producte nou basat en programari lliure: l'OpenLung.
