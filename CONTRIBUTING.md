@@ -6,13 +6,22 @@ This project can use your help! We need help designing mechanical parts, electro
 
 We also strongly value documentation and gladly accept improvements to the documentation.
 
-## How To Submit Changes
+## How To Submit Changes:
 
-TODO: detail fork / merge request process
+We use the fork/merge process, rather than maintaining multiple protected branches. If you're not sure what that means, it's okay, feel free to reach out to us via [slack](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA).
+
+### Quick Process:
+
+   - Fork the repo to your own GitLab account.
+   - Clone your repo to your local device, making changes there.
+   - Push any changes you make to your forked repo on GitLab.
+   - Request a merge with the main repo and it will be reviewed by a member of the team.
+
+
 
 ## Short Links to Important Resources:
-   
-   - docs: requirements / roadmap 
+
+   - docs: requirements / roadmap
    - bugs: issue tracker / bug report tool
    - comms: [OSV Slack][slack]
 
