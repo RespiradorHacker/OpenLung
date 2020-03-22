@@ -1,1 +1,0 @@
-[Link to live design schematic](https://whimsical.com/4mai9JtqTHAGu6i6qz8Hyy)
