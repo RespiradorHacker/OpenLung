@@ -7,7 +7,7 @@ This document in other languages:
 
 # Low Resource Bag Valve Mask (BVM) Ventilator
 
-- This project was jumpstarted by the COVID-19 global pandemic as a result of community discussion on a facebook group called Open Source COVID19 and OpenSourceVentilator, this is why I created a GitLab project for a new open source product called **OpenLung**.
+- This project was jumpstarted by the COVID-19 global pandemic as a result of community discussion on a facebook group called Open Source COVID19 and OpenSourceVentilator. This is why I created a GitLab project for a new open source product called **OpenLung**.
 - More specifically in a discussion surrounding low cost **Bag Valve Mask** (**BVM** or **AmbuBag**) based emergency respirators wherein prior solutions had been developed. [The first from an MIT research group](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf) comprising of the following persons (Abdul Mohsen Al Husseini, Heon Ju Lee, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum and Jussi Saukkonen). [The second device from a Rice University Mechanical Engineering student group](http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096) comprising of the following persons (Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet and Karen Vasquez Ruiz.
 - This project seeks to combine and improve the efforts of these two projects into a more simple and reliable device that consists mostly of easy to source or 3D printed parts.
 - Benefits: Can be mass produced, touch points use certified components, small and simple mechanical requirements, previous research and testing in this area, adaptable to both invasive tubing and masks.
@@ -20,7 +20,7 @@ This document in other languages:
 2. We will reach out when your noted skills are needed, until then please check out the following:
 -- Stay up to date with the project on our website [Open Source Ventilators Ireland](https://opensourceventilator.ie/) and our social channels.
 -- Join our [Slack Channel](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA) to join the conversation. Many other side projects are happening there.
-3. Get familiar with git by learning how to best contribute to this repository. There are many resources available online, you can start [here](https://www.youtube.com/watch?v=enMumwvLAug) or learn how to submit a merge request [here](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
+3. Get familiar with git, to learn how to best contribute to this repository. There are many resources available online, you can start with [YouTube: Introduction to GitLab Workflow](https://www.youtube.com/watch?v=enMumwvLAug) or learn how to submit a merge request [in GitLab's docs](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
 4. If you are anxious and would like to get developing, this is open source, please fork this repo and go for it!
 *If you do begin contributing before we contact you, please follow the contribution guidelines as outlined [here](https://gitlab.com/TrevorSmale/OSV-OpenLung/-/blob/master/CONTRIBUTING.md).
 
