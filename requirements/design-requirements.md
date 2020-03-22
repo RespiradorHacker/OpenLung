@@ -48,6 +48,7 @@ insp./exp ratio, tidal volume
 - Alarms for loss of power, loss of breathing circuit integrity, high airway pressure and low battery life
 - Display of settings and status
 - Standard connection ports
+- Button/Control Lock-out to protect accidental adjustment
 
 ### Repeatability
 
