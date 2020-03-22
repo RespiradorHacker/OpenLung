@@ -1,11 +1,21 @@
 ![Logo](images/OL_BANNER.png)
 
 
+<<<<<<< HEAD
+Este documento en otros idiomas:
+<<<<<<< HEAD
+|[english](README.md)|[català](README-ca.md)|[español](README-es.md)|[日本語](README-ja.md)|[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)|[português](README-pt_BR.md)|[nederlands](README-nl.md)|[Русский](README-ru.md)
+=======
 Este documento está en otros idiomas:
 
 |[english](README.md)|[català](README-ca.md)|[deutsch](README-de.md)|[español](README-es.md)|[français](README-fr.md)|[日本語](README-ja.md)|[nederlands](README-nl.md)|[polski](README-pl.md)[português](README-pt_BR.md)|[Русский](README-ru.md)|[svenska](README-sv.md)|[türkçe](README-tr.md)[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)
+>>>>>>> bf52a88a9998e2278d01b4d3f9af0c97cbe36c41
 |---|---|---|---|---|---|---|---|---|
 
+=======
+|[english](README.md)|[català](README-ca.md)|[français](README-fr.md)|[español](README-es.md)|[日本語](README-ja.md)|[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)|[português](README-pt_BR.md)|[nederlands](README-nl.md)|[Русский](README-ru.md)
+|---|---|---|---|---|---|---|---|---|---|
+>>>>>>> rmv-spec-add
 
 # Ventilador de bolsa con máscara de bajos recursos (BVM)
 - Este proyecto fue impulsado por la pandemia global COVID-19, como resultado de una discusión comunitaria en un grupo de Facebook llamado Open Source COVID19 y OpenSourceVentilator, es por eso que creé un proyecto GitLab para un nuevo producto de código abierto llamado **OpenLung**.

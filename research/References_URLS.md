@@ -1,12 +1,12 @@
-# Collection of URLs in general
+# Collection of URLs for Reference
 
 ---------------------
 
 URL: https://patents.google.com/patent/US20110041852A1/en
-
-US20110041852A1 - Ambu-bag automation system and method          - Google Patents
+- US20110041852A1
+- Ambu-bag automation system and method          
+- Google Patents
 A device for automatically squeezing and releasing an AMBU-bag is disclosed. A device has a housing, and a mechanical compression squeezer in the housing. There are openings in the housing for inlet tubes and outlet tubes of AMBU-bag to pass in and out of the housing. A powered actuator powers the compression squeezer.
-
 
 ----------------------
 
@@ -18,17 +18,18 @@ In this paper the project titled an automated breathing device for critically il
 
 URL: http://azrefs.org/automated-ambu-bag.html
 
-Automated ambu bag
-The addition of the elastic strap to the facemask allows the device to operate hands-free. The hand crank system acts as a replacement for the motorized battery powered version of the device
-
+- Automated Ambu-bag
+The addition of the elastic strap to the face-mask allows the device to operate hands-free. The hand crank system acts as a replacement for the motorized battery powered version of the device
 
 ---------------------
 
 URL: http://www.freepatentsonline.com/y2019/0336713.html
 
-Umbulizer patent
-I don't want to hold this wonderful project up whatsoever and I would like to contribute on the electronics side if I can. However, I want to ask if anyone has looked at the Umbulizer patent, whether there's any overlap that could be easily avoided without detriment to the final function of openlung and would make sure that the success of openlung isn't reduced by adverse legal issues or sentiment. 
+- Umbulizer patent
 
 Abstract A method of ventilating a patient controls an actuator, in accordance with a prescribed value for a respiratory parameter, to compress an inflatable bag to cause air to flow out of an output valve of the bag. The respiratory parameter s may include tidal volume, pressure, volume limit, peak pressure, I:E ratio, inspiratory time, and/or breathing rate of the air flowing through the output valve. The method also senses the pressure flowing through the output valve, and sends a pressure signal to the controller. Additionally, the method senses the flow rate through the output valve, and sends a flow rate signal to the controller. The method also adjusts the compression of the actuator as a function of the flow rate signal and/or the pressure signal to adjust the output tidal volume, pressure, volume limit, peak pressure, I:E ratio, inspiratory time, and/or breathing rate to be in accordance with the prescribed value.
+
+Comments from @ekamioka
+I don't want to hold this wonderful project up whatsoever and I would like to contribute on the electronics side if I can. However, I want to ask if anyone has looked at the Umbulizer patent, whether there's any overlap that could be easily avoided without detriment to the final function of openlung and would make sure that the success of openlung isn't reduced by adverse legal issues or sentiment.
 
 ---------------------

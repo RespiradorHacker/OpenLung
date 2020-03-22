@@ -3,6 +3,7 @@
 Welcome to the Open Source Ventilator Project.  We are always very happy to have contributions, whether for trivial cleanups or big new features.
 This project can use your help! We need help designing mechanical parts, electronics, firmware and user experience.
 We also strongly value documentation and gladly accept improvements to the documentation.
+If you have questions regarding documentation or would like to know specifics on how you can contribute, please visit the issues tracker on the left in GitLab.
 
 # How To Join in Development:
 1. Fill out our Expression of Interest Form [here](https://opensourceventilator.ie/register) if you haven't already.
@@ -37,24 +38,18 @@ We use the fork/merge process, rather than maintaining multiple protected branch
 
 ## Short Links to Important Resources:
 
-   - docs: requirements / roadmap
-   - bugs: issue tracker / bug report tool
-   - comms: [OSV Slack][slack]
-
-[slack]: https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA
+   - docs: [requirements](requirements/)
+   - bugs: [issue tracker](https://gitlab.com/open-source-ventilator/OpenLung/-/issues)
+   - comms: [OSV Slack](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA)
+   - versioning info:
 
 ## Testing
-
+WIP:
 Testing: how to test software components
 
 ### Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and
-orientation.
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ### Attribution
 
