@@ -7,27 +7,36 @@ Detta dokument på andra språk:
 
 Om du vill hjälpa till med översättning av denna dokumentation, klicka [här](https://gitlab.com/TrevorSmale/OSV-OpenLung/-/issues/32).
 
-# Billig Påse-Ventil-Mask-ventilator (BVM)
+# Lågkostnads BMV-ventilator (Påse-Ventil-Mask = BVM)[https://en.wikipedia.org/wiki/Bag_valve_mask]
 
-- This project was jumpstarted by the COVID-19 global pandemic as a result of community discussion on a facebook group called Open Source COVID19 and OpenSourceVentilator, this is why I created a GitLab project for a new open source product called **OpenLung**.
-- More specifically in a discussion surrounding low cost **Bag Valve Mask** (**BVM** or **AmbuBag**) based emergency respirators wherein prior solutions had been developed. [The first from an MIT research group](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf) comprising of the following persons (Abdul Mohsen Al Husseini, Heon Ju Lee, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum and Jussi Saukkonen). [The second device from a Rice University Mechanical Engineering student group](http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096) comprising of the following persons (Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet and Karen Vasquez Ruiz.
-- This project seeks to combine and improve the efforts of these two projects into a more simple and reliable device that consists mostly of easy to source or 3D printed parts.
-- Benefits: Can be mass produced, touch points use certified components, small and simple mechanical requirements, previous research and testing in this area, adaptable to both invasive tubing and masks.
+- Det här projektet startades på grund av den globala pandemin, och som ett resultat av den diskussion som uppstod på en Facebook-grupp "Open Source COVID-19" samt "OpenSourceVentilator". Det är därför jag skapade ett GitLab-projekt för en ny open-source-produkt som kallas **OpenLung**.
 
-*WARNING/DISCLAIMER: Whenever possible, please seek professional medical care with proper equipment setup by trained individuals. Do not use random information you found on the internet. We are not medical professionals, just people on the internet.*
+- Mer specifikt, i en diskussion gällande lågkostnads **Bag Valve Mask** (även kallat AmbuBag)-baserade repiratorer uppmärksammades prior-art: [den första forskargrupp på MIT 2010](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf) av Abdul Mohsen Al Husseini, Heon Ju Lee, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum och Jussi Saukkonen. [Den andra enheten kommer från Rice Universitet för Meknikingenjörernas studentgrupp](http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096) av Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet and Karen Vasquez Ruiz.
 
-# How To Join the Development
-1. Fill out our Expression of Interest Form [here](https://opensourceventilator.ie/register) if you haven't already.
-*This step is mandatory and it’s how we will find you to match your skills to areas you can help. If you have fabrication equipment, also fill out this form.*
-2. We will reach out when your noted skills are needed, until then please check out the following:
--- Stay up to date with the project on our website [Open Source Ventilators Ireland](https://opensourceventilator.ie/) and our social channels.
--- Join our [Slack Channel](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA) to join the conversation. Many other side projects are happening there.
-3. Get familiar with git by learning how to best contribute to this repository. There are many resources available online, you can start [here](https://www.youtube.com/watch?v=enMumwvLAug) or learn how to submit a merge request [here](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
-4. If you are anxious and would like to get developing, this is open source, please fork this repo and go for it!
+- Det här projektet ämnar kombinera resultaten från dessa två projekt till en enklare och mer tillförlitlig enhet som består i huvudsak av komponenter som är enkla att få tag i eller är enkla att skriva ut med en 3D-skrivare.
 
-# Project Requirements
-- Project Requirements are listed [here](requirements/design-requirements.md).
+- Fördelar
+  * kan bli massproducerad
+  * beröringsdelar använder certifierade komponenter
+  * tidigare forskning och testning i den här kategorin återanvänds
+  * möjliggör adaption av komponenter för både invasiva rör och ansiktsmasker
 
-# Project Progress
-![Current Mechanical Concept](images/CONCEPT_6_MECH.png)
-*Current Design Concept 6 with known issues*
+*VARNING/ANSVARSFRISKRIVNING*: När det är möjligt, sök hellre professionell hjälp med utrustning och av utbildade läkare. Var skeptisk till information du hittar på internet. Vi är inte medicinska proffs, bara "folk på internet".
+
+# Hur bidrar jag?
+
+ 1. Fyll i vårt [Intresseformulär](https://opensourceventilator.ie/register). *Detta steg är obligatoriskt eftersom det låter oss matcha kompetens mot behov. Fyll även i om du har tillverkningsutrustning!*
+ 1. Vi tar kontakt när vi behöver din kompetens; tills dess erbjuder vi dessa resurser:
+
+    * Vår sajt [opensourceventilator.ie](https://opensourceventilator.ie/) uppdateras kontinuerligt
+    * Gå med i vår [Slack-kanal](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA) för löpande diskussioner. Många alternativa lösningar och sidoprojekt diskuteras här.
+ 1. Lär dig om "git" för att kunna bidra till vårt repository. Det finns mycket hjälp online. Börja till exempel på [YouTube: Introduction to GitLab Workflow](https://www.youtube.com/watch?v=enMumwvLAug) eller läsa hur du skickar en "Merge Request" (integrationsförfrågan) [i GitLabs dokumentation](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
+
+ 1. Om du är jättesugen på att börja direkt; bara klona det här repositoryt och kör hårt! Det är Open Source, trots allt!
+
+# Projektkrav
+- [Projektkrav finns här](requirements/design-requirements.md).
+
+# Framsteg
+
+Titta på den engelska README:n, då detta uppdateras för ofta.
